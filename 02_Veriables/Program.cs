@@ -179,6 +179,10 @@ namespace _02_Veriables
    //         Console.WriteLine("Seçtiğiniz Cinsiyet: " + gender);
 
             #endregion
+
+
+
+
             Console.Read();
 		}
 	}
