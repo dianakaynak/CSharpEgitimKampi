@@ -1,4 +1,4 @@
-# C# Öğrenme Projeleri 🚀
+# C# EĞİTİM KAMPI PROJE DETAYLARI 🚀
 
 Bu repo, C# dilinde yaptığım çeşitli projeleri içermektedir. Her bir proje, farklı programlama konularını öğrenmek ve geliştirmek amacıyla yapılmıştır:
 
