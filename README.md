@@ -1,6 +1,6 @@
 # C# EĞİTİM KAMPI PROJE DETAYLARI 🚀
 
-Bu repo, C# dilinde gerçekleştirdiğim çeşitli projeleri barındırmaktadır. Her proje, farklı programlama konularını keşfetmek ve yeteneklerimi güçlendirmek amacıyla hazırlanmıştır. Murat Yücedağ’ın rehberliğinde aldığım eğitimlerle bu projeler aracılığıyla önemli bir ilerleme kaydettim. Projelerin detayları şu şekildedir:
+Bu repo, C# dilinde çeşitli projeleri barındırmaktadır. Her proje, farklı programlama konularını keşfetmek ve yeteneklerimi güçlendirmek amacıyla hazırlanmıştır. Murat Yücedağ’ın rehberliğinde aldığım eğitimlerle bu projeler aracılığıyla önemli ilerlemeler kaydetmeye devam ediyorum. Projelerin detayları şu şekildedir:
 
 ### 📚 Proje 1: Yazdırma Komutları ve Değişkenler  
 - Konsola yazdırma komutları öğrenildi.
